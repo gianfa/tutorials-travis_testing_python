@@ -11,7 +11,7 @@ Before to start with this tutorial you should know that **you will need to make 
 #### 1. Setup Github repository ####
 1.  Create a new Github repository into your profile, say *tutorials-travis_testing_python*.<br>Now you should have a branch YOURNAME/tutorials-travis_testing_python/.
 <br>( compare with this repository )
-2.  Create a new python module, say *testami.py* and write into it:
+2.  Create a new python module, say *test_testami.py* (❗️ it must be named with a prefix **test_**) and write into it:
    *   a python function *funzione*
    *   ❗️ a *pytest* (python testing framework) function *test_funzione* that will assert the output of *funzione*
 <br>( compare with testami.py in this repository )
