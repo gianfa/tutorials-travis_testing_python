@@ -50,6 +50,6 @@ Before to start with this tutorial you should know that **you will need to make 
 ``` [![Build Status](https://travis-ci.com/YOURGITHUBNAME/travis_testing_python.svg?branch=master)](https://travis-ci.com/YOURGITHUBNAME/travis_testing_python)``` but maybe it will not be enough... (I warmly suggest you to read the guide, it's only 2 steps!).
 
 #### Et voilà! ####
-Tests are done. Enjoy your brand new badge 
+Tests are done. Enjoy your brand new badge [![Build Status](https://travis-ci.com/gianfa/tutorials-travis_testing_python.svg?branch=master)](https://travis-ci.com/gianfa/tutorials-travis_testing_python)
 
 
