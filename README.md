@@ -23,7 +23,8 @@ Before to start with this tutorial you should know that **you will need to make 
 2.  Go to [Travis CI](https://travis-ci.com/)
 2.  Sign Up or Sign In with your Github account
 2.  From you Travis console, reachable at https://travis-ci.com/profile/**YOURGITHUBNAME**,  click on *Manage Repositories on Github* and access with your Github password. Now you should be in your Travis CI Github Manager and you should be able to see in particular two sections: *Permissions* and *Repository access*.
-2.  Go to *Repository access* and make your choice. I prefer to **_Select Repositories_**, specifying *tutorials-travis_testing_python*. Now on, Travis will launch a build at every commit you will do to your repository. 
+2.  Go to *Repository access* and make your choice. I prefer to **_Select Repositories_**, specifying *tutorials-travis_testing_python*.
+2.  Select *Approve and Install*. Now on, Travis will launch a build at every commit you will do to your repository. 
 2.  Yes, everyone, automatically.
 2.  Go back to your Travis CI console and select **_Sync account_**.
 2.  From your Travis CI console you should see under *Repositories* tab the name of the repository you just added, *tutorials-travis_testing_python*, so click on it to go to the Travis CI branch related to it. From there you can see the builds.
