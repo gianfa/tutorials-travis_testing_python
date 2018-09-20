@@ -1,6 +1,5 @@
 # How to dirty get started with Travis CI, with Python, on Github.
-[![Build Status](https://travis-ci.com/gianfa/tutorials-travis_testing_python.svg?branch=master)](https://travis-ci.com/gianfa/tutorials-travis_testing_python)
-Short Travis getting started with python, quick and dirty.
+Short Travis getting started with python, quick and dirty.[![Build Status](https://travis-ci.com/gianfa/tutorials-travis_testing_python.svg?branch=master)](https://travis-ci.com/gianfa/tutorials-travis_testing_python)
 
 A lot of tutorials are available about this topic, so I will give you only the fundamentals to **effectively** setup your first **COMPLETE** travis build pass with python.
 
