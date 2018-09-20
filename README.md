@@ -12,10 +12,10 @@ Before to start with this tutorial you should know that **you will need to make 
 1.  Create a new Github repository into your profile, say *tutorials-travis_testing_python*.<br>Now you should have a branch YOURNAME/tutorials-travis_testing_python/.
 <br>( compare with this repository )
 2.  Create a new python module, say *testami.py* and write into it:
-   * a python function *funzione*
-   * ❗️ a *pytest* (python testing framework) function *test_funzione* that will assert the output of *funzione*
+   *   a python function *funzione*
+   *   ❗️ a *pytest* (python testing framework) function *test_funzione* that will assert the output of *funzione*
 <br>( compare with testami.py in this repository )
-3. Create the *.test.yml* file containing the configuration about Travis behaviour.
+3. Create the *.travis.yml* file containing the configuration about Travis behaviour.
 <br>( compare with *.test.yml* in this repository )
 4. Create a *requirements.txt* file with the required modules for your module to run. If it needs no other modules let it empty, but create it anyway.
 
