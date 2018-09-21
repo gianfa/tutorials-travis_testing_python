@@ -14,7 +14,7 @@ Before to start with this tutorial you should know that **you will need to make 
 2.  Create a new python module, say *test_testami.py* (❗️ it must be named with a prefix **test_**) and write into it:
    *   a python function *funzione*
    *   ❗️ a *pytest* (python testing framework) function *test_funzione* that will assert the output of *funzione*
-<br>( compare with testami.py in this repository )
+<br>( compare with *test_testami.py* in this repository )
 3. Create the *.travis.yml* file containing the configuration about Travis behaviour.
 <br>( compare with *.test.yml* in this repository )
 4. Create a *requirements.txt* file with the required modules for your module to run. If it needs no other modules let it empty, but create it anyway.
