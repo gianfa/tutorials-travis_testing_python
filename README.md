@@ -42,7 +42,7 @@ Before to start with this tutorial you should know that **you will need to make 
 3.  Read again 2.6
 
 #### 4. Hum, so everything will pass?? ####
-1.  Go editing your *testami.py* file changing the returned value in a wrong way, for instance concatenating a *str* with a *int* and see what happens
+1.  Go editing your *test_testami.py* file changing the returned value in a wrong way, for instance concatenating a *str* with a *int* and see what happens
 
 #### 5. Grand Finale ####
 1.  Add your Travis CI Passing Badge to your README.md! You can do it reading this easy guide: https://docs.travis-ci.com/user/status-images/.
