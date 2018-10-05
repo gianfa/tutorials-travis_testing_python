@@ -9,7 +9,7 @@ Before to start with this tutorial you should know that **you will need to make 
 ### How-to step by step ###
 
 #### 1. Setup Github repository ####
-1.  Create a new Github repository into your profile, say *tutorials-travis_testing_python*.<br>Now you should have a branch YOURNAME/tutorials-travis_testing_python/.
+1.  Create a new Github repository into your profile, say *tutorials-travis_testing_python*.<br>Now you should have the repository YOURNAME/tutorials-travis_testing_python/.
 <br>( compare with this repository )
 2.  Create a new python module, say *test_testami.py* (❗️ it must be named with a prefix **test_**) and write into it:
    *   a python function *funzione*
